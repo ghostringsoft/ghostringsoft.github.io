@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Ghostring Hydraulics"
-    url: /ghostring-hydraulics.html
+    url: http://ghostringsoft.github.io/ghostring-hydraulics.html
     
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
