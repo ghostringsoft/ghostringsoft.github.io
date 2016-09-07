@@ -18,7 +18,7 @@ Features:
 This is a pilot release of the app. If you are interested in improving the product, give us feedback!
 
 <figure style="width: 300px" class="align-left"> 
-<a href="https://www.microsoft.com/store/apps/9NBLGGH51DD0?ocid=badge">
-  <img src="https://assets.windowsphone.com/f2f77ec7-9ba9-4850-9ebe-77e366d08adc/English_Get_it_Win_10_InvariantCulture_Default.png" alt="">
-  </figure>
-</a>
+  <a href="https://www.microsoft.com/store/apps/9NBLGGH51DD0?ocid=badge">
+    <img src="https://assets.windowsphone.com/f2f77ec7-9ba9-4850-9ebe-77e366d08adc/English_Get_it_Win_10_InvariantCulture_Default.png" alt="">
+  </a>
+</figure>
