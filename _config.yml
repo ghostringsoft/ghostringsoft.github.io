@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : "Ghostring Soft"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Ghostring Soft"
+description              : "Apps & Scripts for Engineers"
+url                      : "http://ghostringsoft.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -24,14 +24,14 @@ comments:
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
-    num_posts            : # 5 (default)
+    num_posts            : 15
     colorscheme          : # "light" (default), "dark"
 
 # SEO Related
 google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
-yandex_site_verification :
+yandex_site_verification : "afd87e725880d419"
 
 # Social Sharing
 twitter:
@@ -61,9 +61,9 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "noisywiz"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : ""
   location         : "Somewhere"
   email            :
   uri              :
