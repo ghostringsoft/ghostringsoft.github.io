@@ -6,11 +6,9 @@ header:
   overlay_image: https://img-fotki.yandex.ru/get/38765/382250005.0/0_11f892_599a4581_orig
 ---
 Simple hydraulic calculator with minimalistic interface for quick pipe selection.
-
-<figure style="width: 628px" class="align-left"> 
+<figure style="width: 628px" class="align-center"> 
   <img src="https://img-fotki.yandex.ru/get/58717/382250005.0/0_12e6e1_965bf347_orig.png" alt="">
 </figure>
-
 Features:
 
 - pipe types (steel, pp) with absolute roughness and diameters;
