@@ -7,7 +7,7 @@ header:
 ---
 
 <figure style="width: 300px" class="align-left"> 
-  <img src="https://fotki.yandex.ru/next/users/ghostringsoft/album/513391/view/1238753" alt="">
+  <img src="https://img-fotki.yandex.ru/get/58717/382250005.0/0_12e6e1_965bf347_orig.png" alt="">
 </figure>
 
 Simple hydraulic calculator with minimalistic interface for quick pipe selection.
