@@ -6,6 +6,10 @@ header:
   overlay_image: https://img-fotki.yandex.ru/get/38765/382250005.0/0_11f892_599a4581_orig
 ---
 
+<figure style="width: 300px" class="align-left"> 
+  <img src="https://fotki.yandex.ru/next/users/ghostringsoft/album/513391/view/1238753" alt="">
+</figure>
+
 Simple hydraulic calculator with minimalistic interface for quick pipe selection.
 
 Features:
