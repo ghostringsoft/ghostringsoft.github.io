@@ -3,7 +3,7 @@ title: "Ghostring Hydraulics"
 layout: single
 permalink: /ghostring-hydraulics.html
 header:
-  overlay_image: https://img-fotki.yandex.ru/get/9511/382250005.0/0_12e6e3_bb2cd266_orig.jpg
+  overlay_image: http://noisywiz.github.io/images/sample-image-1.jpg
 ---
 Simple hydraulic calculator with minimalistic interface for quick pipe selection.
 <figure style="width: 628px" class="align-center"> 
