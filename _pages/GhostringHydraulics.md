@@ -15,7 +15,7 @@ Features:
 - calculation of pressure losses at local resistances;
 - linear pressure loss;
 - manual input of substance parameters.
-- open source.
+- [open source](https://github.com/noisywiz/Ghostring-Hydraulics) Windows 10 universal app.
 
 This is a pilot release of the app. If you are interested in improving the product, give us feedback!
 
